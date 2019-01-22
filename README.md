@@ -3,31 +3,34 @@
 
 （主要应用于pc和移动端游戏专题开发，微信h5页面制作，响应式网站开发）
 
-1.剑网三分流页 
+剑侠世界2微信分享助力专题
+[http://test-zt.xoyo.com/js2.xoyo.com/m/2019/01/02/fortune-blessing/index.html](http://test-zt.xoyo.com/js2.xoyo.com/m/2019/01/02/fortune-blessing/index.html "剑网三分流页")
+
+剑网三分流页 
 
 [http://jx3.xoyo.com/mobile/#/](http://jx3.xoyo.com/mobile/#/ "剑网三分流页")
 
-2.剑网三百级狂欢页pc端
+剑网三百级狂欢页pc端
 
 [http://jx3.xoyo.com/zt/2018/12/14/carnival-pc/#/](http://jx3.xoyo.com/zt/2018/12/14/carnival-pc/#/ "剑网三百级狂欢夜-pc端")
 
-3.剑网三预约专题(移动端)
+剑网三预约专题(移动端)
 
 [https://jx3.xoyo.com/m/2018/11/16/appointment-mobile/index.html#/](https://jx3.xoyo.com/m/2018/11/16/appointment-mobile/index.html#/ "剑网三预约专题")
 
-4.剑网三预约专题(pc端)
+剑网三预约专题(pc端)
 
 [https://jx3.xoyo.com/zt/2018/11/16/appointment/#/](https://jx3.xoyo.com/zt/2018/11/16/appointment/#/ "剑网三预约专题-pc端")
 
-5.响应式整站开发
+响应式整站开发
 
 [http://sw.xishanju.com/#/](http://sw.xishanju.com/#/ "seasun world整站开发")
 
-6.微信传功h5页面
+微信传功h5页面
 
 [https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxb0386aca4caa2551&redirect_uri=http%3A%2F%2Ftestwechat.xoyo.com%2Fxsjwechat%2Foauth2%2Fcallback&response_type=code&scope=snsapi_userinfo&state=4526bed0664b001a#wechat_redirect](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxb0386aca4caa2551&redirect_uri=http%3A%2F%2Ftestwechat.xoyo.com%2Fxsjwechat%2Foauth2%2Fcallback&response_type=code&scope=snsapi_userinfo&state=4526bed0664b001a#wechat_redirect "传功h5")
 
-7.剑世2兑奖页面
+剑世2兑奖页面
 
 [http://js2.xoyo.com/m/2018/10/30/js2-exchange-service](http://js2.xoyo.com/m/2018/10/30/js2-exchange-service)
 
