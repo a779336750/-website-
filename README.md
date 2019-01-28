@@ -60,7 +60,7 @@
 
 [http://jxsj.xoyo.com/zt/2018/09/26/180926old-player/index.html](http://jxsj.xoyo.com/zt/2018/09/26/180926old-player/index.html "老玩家专题")
 
-5.剑侠世界新年专题
+6.剑侠世界新年专题
 
 [http://jxsj.xoyo.com/zt/2019/1/28/new-year/index.html](http://jxsj.xoyo.com/zt/2019/1/28/new-year/index.html "新年专题")
 
